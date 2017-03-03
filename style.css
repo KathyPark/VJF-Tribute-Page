@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: #84CBE3;
+  text-align: center;
+}
+
+.quote {
+  font-style: italic;
+}
+
+body {
+  background-color: #CAE1E8;
+  padding: 50px;
+}
